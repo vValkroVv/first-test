@@ -9,6 +9,6 @@ x_max = st.slider('Max value of x', float(df['x'].max()))
 
 st.markdown(""" Let's look""")
 
-st.title("My streamlit app")
-
+st.title("My streamlit app 3ih")
+st.title("Git")
 df
